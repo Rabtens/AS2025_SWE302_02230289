@@ -1,0 +1,10 @@
+{
+  "name": "practical7",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix ./performance-testing start",
+    "dev": "npm --prefix ./performance-testing run dev",
+    "build": "npm --prefix ./performance-testing run build"
+  }
+}
