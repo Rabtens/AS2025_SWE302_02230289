@@ -326,9 +326,10 @@ During my thorough testing, I'm happy to report that I found **no critical bugs 
 
 ## Output Screenshot
 
-![alt text](<Screenshot from 2025-08-25 23-19-22.png>)
+![alt text](<Practicals/Practical_1/Screenshot from 2025-08-25 23-19-22.png>)
 
-![alt text](<Screenshot from 2025-08-25 23-19-10.png>)
+![alt text](<Practicals/Practical_1/Screenshot from 2025-08-25 23-19-10.png>)
+
 
 ## What I Learned About Testing
 

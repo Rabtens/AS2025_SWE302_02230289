@@ -258,11 +258,11 @@ The HTML report showed me:
 ### Test Execution Results
 **All Tests Passed Successfully**:
 
-![alt text](<Screenshot from 2025-08-25 11-57-41.png>)
+![alt text](<Practicals/Practical_2/Screenshot from 2025-08-25 11-57-41.png>)
 
-![alt text](<Screenshot from 2025-08-25 12-00-08.png>)
+![alt text](<Practicals/Practical_2/Screenshot from 2025-08-25 12-00-08.png>)
 
-![alt text](<Screenshot from 2025-08-25 12-01-16.png>)
+![alt text](<Practicals/Practical_2/Screenshot from 2025-08-25 12-01-16.png>)
 
 
 ### Quality Metrics I Achieved
