@@ -557,37 +557,7 @@ If tests fail:
 
 ---
 
-## 8. Screenshots and Evidence
-
-### Screenshot 1: Test Execution Output
-*Shows all tests passing with green checkmarks*
-
-```
-Terminal output showing:
-- Container creation logs
-- Test execution (all PASS)
-- Coverage percentage: 84.5%
-- Total time: ~8 seconds
-```
-
-### Screenshot 2: Docker Container Running
-*Docker Desktop or `docker ps` showing PostgreSQL container during test execution*
-
-```
-CONTAINER ID   IMAGE                 STATUS         PORTS
-fb2a9d18618a   postgres:15-alpine   Up 3 seconds   0.0.0.0:xxxxx->5432/tcp
-```
-
-### Screenshot 3: Coverage Report
-*HTML coverage report opened in browser (if generated)*
-
-```
-Shows green (covered) and red (not covered) code sections
-Overall coverage: 84.5%
-```
-
-### Screenshot 4: Project Structure
-*File explorer showing complete project organization*
+### Project Structure
 
 ```
 Practical_5/
@@ -600,7 +570,7 @@ Practical_5/
 └── README.md
 ```
 
-### Screenshot 5: TestContainers Logs
+### TestContainers Logs
 *Detailed logs showing container lifecycle*
 
 ```
@@ -614,23 +584,23 @@ Practical_5/
 
 ---
 
-## 9. Conclusion
+## 8. Conclusion
 
 ### Summary of Achievements
 
 Through this practical, I successfully:
 
-✅ **Implemented integration testing** using TestContainers with a real PostgreSQL database
+**Implemented integration testing** using TestContainers with a real PostgreSQL database
 
-✅ **Created a complete CRUD application** with proper layered architecture (models, repository, tests)
+**Created a complete CRUD application** with proper layered architecture (models, repository, tests)
 
-✅ **Achieved 84.5% test coverage** with comprehensive test cases covering success and failure scenarios
+**Achieved 84.5% test coverage** with comprehensive test cases covering success and failure scenarios
 
-✅ **Learned Docker-based testing** and how to manage containerized dependencies in tests
+**Learned Docker-based testing** and how to manage containerized dependencies in tests
 
-✅ **Gained hands-on experience** with Go testing, database operations, and error handling
+**Gained hands-on experience** with Go testing, database operations, and error handling
 
-✅ **Understood the differences** between unit tests (mocked) and integration tests (real dependencies)
+**Understood the differences** between unit tests (mocked) and integration tests (real dependencies)
 
 ### Practical Applications
 
