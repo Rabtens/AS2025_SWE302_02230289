@@ -1,9 +1,9 @@
 # Module Practical 3: Software Testing & Quality Assurance
 ## Specification-Based Testing in Go
 
-**Student Name:** [Your Name]  
-**Student ID:** [Your ID]  
-**Date:** November 25, 2025  
+**Student Name:** [Kuenzang Rabten]  
+**Student ID:** [02230289]  
+**Date:** October 25, 2025  
 **Module:** Software Testing & Quality Assurance
 
 ---
@@ -507,7 +507,11 @@ ok      shipping    0.003s
 
 ### Test Screenshot
 
-[Screenshot showing all tests passing would be inserted here]
+![alt text](<Practicals/Practical_3/Screenshot from 2025-11-26 23-13-45.png>)
+
+![alt text](<Practicals/Practical_3/Screenshot from 2025-11-26 23-13-53.png>)
+
+![alt text](<Practicals/Practical_3/Screenshot from 2025-11-26 23-14-08.png>)
 
 ---
 
