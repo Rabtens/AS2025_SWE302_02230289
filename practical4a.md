@@ -263,9 +263,3 @@ Include screenshots of the SonarCloud dashboard, PR decoration, and the GitHub A
 ![alt text](<Practicals/practical4a/assets/Screenshot from 2025-11-30 12-38-19.png>)
 
 ![alt text](<Practicals/practical4a/assets/Screenshot from 2025-11-30 12-38-43.png>)
-If you want, I can now:
-- create the `sonarqube.yml` workflow file in `.github/workflows/` for this repo,
-- add a short `SECURITY.md` with triage steps and remediation guidance,
-- or add a `sonar-project.properties` and `pom.xml` snippet as files and run a local validation script (notes only; CI requires GitHub Actions to execute).
-
-Which of these should I do next? (I can implement one or all.)

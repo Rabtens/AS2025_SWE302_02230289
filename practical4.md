@@ -136,8 +136,5 @@ security:
 
 ---
 
-If you want, I can:
-- create the `.github/workflows/enhanced-security.yml` example in this repo,
-- add a short `SECURITY.md` with triage guidance,
-- or test a minimal Snyk job locally via a shortened workflow. Which would you like next?
+
 
