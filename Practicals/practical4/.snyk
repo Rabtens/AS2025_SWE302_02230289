@@ -1,0 +1,24 @@
+# Snyk configuration file for cicd-demo project
+# This file configures Snyk security scanning settings
+
+version: v1.0.0
+
+# Ignore specific vulnerabilities
+# Use this section to temporarily ignore known vulnerabilities
+# Always provide a reason and expiration date
+ignore: {}
+
+# Patch configuration
+patches: {}
+
+# Language-specific settings
+language-settings:
+  java:
+    # Maven-specific settings
+    targetFile: pom.xml
+
+# Exclude directories from scanning
+exclude:
+  - 'target/**'
+  - '**/*.class'
+  - '.mvn/**'
